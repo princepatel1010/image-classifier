@@ -1,2 +1,1 @@
-## Natural Scenes Image Classifier
 
