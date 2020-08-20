@@ -1,7 +1,7 @@
 ## Natural Scenes Image Classifier
 
 ### Introduction
-This is Natural Scenes Image Classifier project. Model trained with 224x224 image of natural scenes and the model classifies the image of six calsses which includes buildings, forest, glacier, mountain, sea and street gives as a output.
+This is Natural Scenes Image Classifier project. Model trained with 224x224 image of natural scenes and the model classifies the image of six classes which includes buildings, forest, glacier, mountain, sea and street gives as a output.
 
 ### Required python libraries
 - Numpy
